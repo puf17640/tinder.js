@@ -1,0 +1,1 @@
+declare type AuthToken = string
